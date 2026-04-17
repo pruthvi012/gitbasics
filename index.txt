@@ -1,4 +1,2 @@
 devops
 smugj
-linux,network
-pruthvi
