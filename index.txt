@@ -1,3 +1,2 @@
 devops
 smugj
-linux,network
