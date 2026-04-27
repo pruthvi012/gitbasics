@@ -2,4 +2,3 @@ devops
 smugj
 linux,network
 pruthvi
-epcet
