@@ -2,5 +2,4 @@ devops
 smugj
 linux,network
 pruthvi
-cloud
-pavan
+epcet
